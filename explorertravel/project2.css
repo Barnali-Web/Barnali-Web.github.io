@@ -1,0 +1,170 @@
+#logo {
+    font-family: 'Font Name', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+
+
+
+.rowcenter {
+    text-align: center;
+}
+
+
+/*#edit {
+color: white;
+background-color: blue;
+margin-top: 20px;
+margin-left: 20px;
+border-style: solid;
+width: 150px;
+height: 70px;
+padding-left: 20px;
+top: 100px;
+position: relative;
+font-size: 15px;
+font-style: italic;
+
+}*/
+
+/*#fun {
+position: absolute;
+top: 0px;
+right: 0px;
+font-size: 10px;
+
+}*/
+/*#booking {
+position: fixed;
+right: inherit;
+bottom: 50%;
+left:500px;
+
+
+
+}*/
+
+.edit1 {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+
+.imgcontainer {
+    text-align: center;
+}
+
+#edit2 {
+    height: 300px;
+    width: 100%;
+}
+
+
+
+
+#plogo {
+    position: relative;
+}
+
+#positionlogo {
+    position: absolute;
+    top: 0px;
+}
+
+#pex {
+    position: absolute;
+    top: 25px;
+    color: blue;
+}
+
+#border {
+
+    border-color: gainsboro;
+    border-style: double;
+    padding-top: 10px;
+    background-image: repeating-linear-gradient(skyblue, white);
+
+}
+
+#border1 {
+
+    border-color: gainsboro;
+    border-style: double;
+    padding-bottom: 15px;
+    background-image: linear-gradient(#e4e8ed, white);
+
+}
+
+
+
+#edit4 {
+    background-image: linear-gradient(orange, white);
+}
+
+#edit5 {
+    position: absolute;
+    width: 200px;
+    right: 40px;
+    bottom: 40px;
+}
+
+#edit6 {
+    position: absolute;
+    width: 300px;
+    left: 70px;
+    top: 0px;
+}
+
+#edit7 {
+
+    width: 200px;
+    position: absolute;
+    bottom: 50px;
+
+}
+
+#edit8 {
+    position: relative;
+
+}
+
+
+#black {
+    color: black;   
+}
+
+#edit9 {
+    top: 30px;
+}
+
+#edit10 {
+    position: relative;
+}
+
+#edit11 {
+    position: absolute;
+    top: 45px;
+
+}
+
+ 
+    iframe {
+   
+    width: 100%;
+    border: 0px;
+        height: 200px;
+}
+
+#edit15 {
+    padding-top: 30px;
+}
+
+#edit3 {
+    border: 0px;
+}
